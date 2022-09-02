@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Анатолий\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Анатолий\\Desktop\\Git\\программирование\\Hello\\Hello.csproj",
+      "projectUniqueName": "G:\\Учеба\\Git\\программирование\\Hello\\Hello.csproj",
       "projectName": "Hello",
-      "projectPath": "C:\\Users\\Анатолий\\Desktop\\Git\\программирование\\Hello\\Hello.csproj",
-      "packagesPath": "C:\\Users\\Анатолий\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Анатолий\\Desktop\\Git\\программирование\\Hello\\obj\\",
+      "projectPath": "G:\\Учеба\\Git\\программирование\\Hello\\Hello.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "G:\\Учеба\\Git\\программирование\\Hello\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Анатолий\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
